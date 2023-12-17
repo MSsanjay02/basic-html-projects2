@@ -1,0 +1,22 @@
+
+    h1{
+        color:red;
+        padding-left:450px;
+
+    }
+    img{
+        padding-left: 250px;
+    } 
+    h2{
+        padding-left:40px;
+    }   
+    div{
+        padding-left:70px;
+    }
+    h3:hover{
+        color:grey;
+    }
+    #img,img3,img4,img5{
+        padding-right:500px;
+    }
+    
